@@ -1,7 +1,7 @@
 # Reversi
 
 <p>Computer Reversi Game and also an AI Player for AI Competition.</p>
-<p>this project consists of a GUI for Playing Othello and also an AI Player.</p>
+<p>This is a school project for artificial intelligence (AI) subject and consists of a GUI for Playing Othello and also an AI Player.</p>
 
 <br/>
 <p align="center">
