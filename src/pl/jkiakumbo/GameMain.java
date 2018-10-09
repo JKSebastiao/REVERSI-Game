@@ -1,0 +1,22 @@
+package pl.jkiakumbo;
+
+import javax.swing.*;
+
+public class GameMain extends JFrame {
+
+    public GameMain(){
+        GamePanel gp = new GamePanel();
+        this.add(gp);
+        this.setTitle("Reversi v0.1");
+        this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        this.pack();
+        this.setVisible(true);
+        //this.setSize(500,500);
+
+    }
+
+    public static void main(String[] args) {
+        new GameMain();
+    }
+
+}
